@@ -1,2 +1,2 @@
 @Library('3tech_shared_library') _
-alertzApp 'https://github.com/Abaree/gtbng.git'
+alertzApp ''
